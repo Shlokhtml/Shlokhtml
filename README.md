@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shlokhtml
-- 👀 I’m interested in learnig computer languages 
+- 👀 I’m interested in learning computer languages 
 - 🌱 I’m currently learning <html>
 - 💞️ I’m looking to collaborate on the sharpest html teacher
 - 📫 Who teaches me very well.
